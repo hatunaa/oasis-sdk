@@ -4,6 +4,7 @@
 [![CI audit status][github-ci-audit-badge]][github-ci-audit-link]
 [![CI test status][github-ci-test-badge]][github-ci-test-link]
 [![Rust coverage][codecov-badge]][codecov-link]
+test by tuandv
 
 <!-- markdownlint-disable line-length -->
 [github-ci-lint-badge]: https://github.com/oasisprotocol/oasis-sdk/workflows/ci-lint/badge.svg
